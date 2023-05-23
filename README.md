@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaique Oliveira</h1>
+<h1 align="center">Hi 👋, I'm Kaique</h1>
 <h3 align="center">Interested in software engineering, cybersecurity and artificial intelligence</h3>
 
 - 🌱 I’m currently learning **Python, TensorFlow, Pytorch, Pandas, Matplotlib, OpenCV, Adversarial Robustness Toolbox, AWS**
