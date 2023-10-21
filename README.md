@@ -32,14 +32,14 @@ Feel free to request collaboration or simply chat about technology or anything y
 
 #### Connect with Me 🌐
 
-- 💼 Let's connect on <a href="https://www.linkedin.com/in/kaiqueso" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" align="center"></a> &nbsp;
-- 📷 Follow me on <a href="https://www.instagram.com/kaiqueeso" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" height="30" align="center"></a> &nbsp;
-- 📹 Check out my <a href="https://www.youtube.com/@kaiqueoliv" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" height="30" align="center"></a> &nbsp;
-- 📝 Read my articles on <a href="https://medium.com/@kaiqueso" target="_blank"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="30" height="30" align="center"></a> &nbsp;
-- 🎮 Join me on <a href="https://www.twitch.tv/kaique2b" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitch.png" width="30" height="30" align="center"></a> &nbsp;
-- 💬 Find me on <a href="https://www.reddit.com/user/kaiqueeso" target="_blank"><img src="https://img.icons8.com/color/48/000000/reddit.png" width="30" height="30" align="center"></a> &nbsp;
-- 👨‍💻 See my work on <a href="https://dev.to/kaiqueso" target="_blank"><img src="https://img.icons8.com/color/48/000000/dev.png" width="30" height="30" align="center"></a> &nbsp;
-- ✉️ Feel free to drop me an email at <a href="mailto:kaiquee.souzaoliveira@gmail.com" target="_blank">kaiquee.souzaoliveira@gmail.com</a>
+- 💼 Let's connect on [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30">](https://www.linkedin.com/in/kaiqueso) &nbsp;
+- 📷 Follow me on [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" height="30">](https://www.instagram.com/kaiqueeso) &nbsp;
+- 📹 Check out my [<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" height="30">](https://www.youtube.com/@kaiqueoliv) &nbsp;
+- 📝 Read my articles on [<img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="30" height="30">](https://medium.com/@kaiqueso) &nbsp;
+- 🎮 Join me on [<img src="https://img.icons8.com/color/48/000000/twitch.png" width="30" height="30">](https://www.twitch.tv/kaique2b) &nbsp;
+- 💬 Find me on [<img src="https://img.icons8.com/color/48/000000/reddit.png" width="30" height="30">](https://www.reddit.com/user/kaiqueeso) &nbsp;
+- 👨‍💻 See my work on [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="30" height="30">](https://dev.to/kaiqueso) &nbsp;
+- ✉️ Feel free to drop me an email at [kaiquee.souzaolivera@gmail.com](mailto:kaiquee.souzaoliveira@gmail.com)
 
 #### Recent GitHub Activity 📆
 
