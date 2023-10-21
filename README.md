@@ -16,11 +16,11 @@ I'm a 19-year-old Computer Science student who's passionate about technology and
 
 - 🎯 Always open to new challenges and learning opportunities.
 - 🌟 Actively contribute to open-source projects.
-- 📈 Enthusiastic about coding and exploring emerging technologies.
+- 📈 I like to learn a little and explore other areas.
 - ✈️ Aviation Enthusiast: I'm also captivated by all things related to aviation and the thrill of flight.
-- 🔭 Stargazer: In my free time, I love observing the wonders of the night sky.
+- 🔭 Stargazer: In my free time, I like to explore and gaze at the night sky.
 
-Feel free to reach out for collaboration or simply to have a tech-related chat! Let's connect and create amazing things together. 🌟
+Feel free to request collaboration or simply chat about technology or anything you find interesting! Let's connect and create amazing things together. 🌟
 
 #### My GitHub Stats 📊
 
