@@ -41,6 +41,7 @@ Feel free to request collaboration or simply chat about technology or anything y
 - 👨‍💻 See my work on [Dev.to](https://dev.to/kaiqueso)
 - ✉️ Feel free to drop me an email at [kaiquee.souzaolivera@gmail.com](mailto:kaiquee.souzaoliveira@gmail.com)
 
+
 #### Recent GitHub Activity 📆
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaiqueso&theme=tokyonight-duo)
