@@ -22,11 +22,11 @@ I'm a 19-year-old Computer Science student. Currently, my areas of interest revo
 
 Feel free to request collaboration or simply chat about technology or anything you find interesting! Let's connect and create amazing things together. 🌟
 
-#### My GitHub Stats 📊
+#### 🚀 My GitHub Stats 🌌
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiqueso&show_icons=true&theme=dark)
 
-#### Favorite Tech Stack 💻
+#### ✨ Favorite Tech Stack 💻
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueso&layout=compact&theme=dark)
 
