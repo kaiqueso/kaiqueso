@@ -38,7 +38,7 @@ Feel free to request collaboration or simply chat about technology or anything y
 - 📝 Read my articles on [<img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="30" height="30">](https://medium.com/@kaiqueso)
 - 🎮 Join me on [<img src="https://img.icons8.com/color/48/000000/twitch.png" width="30" height="30">](https://www.twitch.tv/kaique2b)
 - 💬 Find me on [<img src="https://img.icons8.com/color/48/000000/reddit.png" width="30" height="30">](https://www.reddit.com/user/kaiqueeso)
-- 👨‍💻 See my work on [<img src="https://icons8.com/icon/Sf2NuZRCVuaE/dev" width="30" height="30">](https://dev.to/kaiqueso)
+- 👨‍💻 See my work on [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="30" height="30">](https://dev.to/kaiqueso)
 - ✉️ Feel free to drop me an email at [kaiquee.souzaolivera@gmail.com](mailto:kaiquee.souzaoliveira@gmail.com)
 
 #### Recent GitHub Activity 📆
