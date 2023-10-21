@@ -32,13 +32,13 @@ Feel free to request collaboration or simply chat about technology or anything y
 
 #### Connect with Me 🌐
 
-[<img src="https://img.icons8.com/ios/50/000000/linkedin.png" width="25" height="25" align="center">](https://www.linkedin.com/in/kaiqueso) &nbsp;
-[<img src="https://img.icons8.com/ios/50/000000/instagram.png" width="25" height="25" align="center">](https://www.instagram.com/kaiqueeso) &nbsp;
-[<img src="https://img.icons8.com/ios/50/000000/youtube.png" width="25" height="25" align="center">](https://www.youtube.com/@kaiqueoliv) &nbsp;
-[<img src="https://img.icons8.com/ios/50/000000/medium.png" width="25" height="25" align="center">](https://medium.com/@kaiqueso) &nbsp;
-[<img src="https://img.icons8.com/ios/50/000000/twitch.png" width="25" height="25" align="center">](https://www.twitch.tv/kaique2b) &nbsp;
-[<img src="https://img.icons8.com/ios/50/000000/reddit.png" width="25" height="25" align="center">](https://www.reddit.com/user/kaiqueeso) &nbsp;
-[<img src="https://img.icons8.com/ios/50/000000/dev.png" width="25" height="25" align="center">](https://dev.to/kaiqueso) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" align="center">](https://www.linkedin.com/in/kaiqueso) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" height="30" align="center">](https://www.instagram.com/kaiqueeso) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" height="30" align="center">](https://www.youtube.com/@kaiqueoliv) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="30" height="30" align="center">](https://medium.com/@kaiqueso) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/twitch.png" width="30" height="30" align="center">](https://www.twitch.tv/kaique2b) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/reddit.png" width="30" height="30" align="center">](https://www.reddit.com/user/kaiqueeso) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/dev.png" width="30" height="30" align="center">](https://dev.to/kaiqueso) &nbsp;
 [✉️](mailto:kaiquee.souzaoliveira@gmail.com)
 
 #### Recent GitHub Activity 📆
