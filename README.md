@@ -22,7 +22,7 @@ I'm Kaique Oliveira, a 19-year-old Computer Science student with a passion for t
 
 #### Favorite Tech Stack 💻
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueso&layout=compact&theme=dark)
 
 #### Connect with Me 📫
 
