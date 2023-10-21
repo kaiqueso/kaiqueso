@@ -18,7 +18,7 @@ I'm Kaique Oliveira, a 19-year-old Computer Science student with a passion for t
 
 #### My GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiqueso&show_icons=true&theme=dark)
 
 #### Favorite Tech Stack 💻
 
@@ -27,8 +27,8 @@ I'm Kaique Oliveira, a 19-year-old Computer Science student with a passion for t
 #### Connect with Me 📫
 
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/kaiqueso)
-- ✉️ Feel free to drop me an email at [your-email@example.com](mailto:kaiquee.souzaoliveira@gmail.com)
+- ✉️ Feel free to drop me an email at [kaiquee.souzaolivera@gmail.com](mailto:kaiquee.souzaoliveira@gmail.com)
 
 #### Recent GitHub Activity 📆
 
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=kaiquesoe&theme=dark)
