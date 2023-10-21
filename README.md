@@ -30,9 +30,15 @@ Feel free to request collaboration or simply chat about technology or anything y
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueso&layout=compact&theme=dark)
 
-#### Connect with Me 📫
+#### Connect with Me 🌐
 
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/kaiqueso)
+- 📷 Follow me on [Instagram](https://www.instagram.com/kaiqueeso)
+- 📹 Check out my [YouTube](https://www.youtube.com/@kaiqueoliv)
+- 📝 Read my articles on [Medium](https://medium.com/@kaiqueso)
+- 🎮 Join me on [Twitch](https://www.twitch.tv/kaique2b)
+- 💬 Find me on [Reddit](https://www.reddit.com/user/kaiqueeso)
+- 👨‍💻 See my work on [Dev.to](https://dev.to/kaiqueso)
 - ✉️ Feel free to drop me an email at [kaiquee.souzaolivera@gmail.com](mailto:kaiquee.souzaoliveira@gmail.com)
 
 #### Recent GitHub Activity 📆
