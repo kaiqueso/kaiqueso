@@ -43,4 +43,4 @@ Feel free to request collaboration or simply chat about technology or anything y
 
 #### Recent GitHub Activity 📆
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaiqueso&theme=tokyonight-duo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaiqueso&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
