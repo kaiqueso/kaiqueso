@@ -41,6 +41,3 @@ Feel free to request collaboration or simply chat about technology or anything y
 - 👨‍💻 See my work on [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="30" height="30">](https://dev.to/kaiqueso) &nbsp;
 - ✉️ Feel free to drop me an email at [kaiquee.souzaoliveira@gmail.com](mailto:kaiquee.souzaoliveira@gmail.com)
 
-#### Recent GitHub Activity 📆
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaiqueso&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
