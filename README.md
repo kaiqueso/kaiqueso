@@ -16,4 +16,4 @@ I'm a 19-year-old Computer Science student.
 
 - 💼 Let's connect on [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30">](https://www.linkedin.com/in/kaiqueso) &nbsp;
 - 📷 Follow me on [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" height="30">](https://www.instagram.com/kaiqueeso) &nbsp;
-- 📹 Check out my [<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" height="30">](https://www.youtube.com/@kaiqueoliv) &nbsp;
+- 📹 Check out my [<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30" height="30">](https://www.youtube.com/channel/UCn7K93OLCr6Vivfd3bbESXw) &nbsp;
