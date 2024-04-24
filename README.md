@@ -2,7 +2,7 @@
 
 ### I'm Kaique Oliveira
 
-I'm a 19-year-old Computer Science student. Currently, my areas of interest revolve around exploring, learning, and working in the following domains.
+I'm a 19-year-old Computer Science student.
 
 #### 🚀 My GitHub Stats 🌌
 
