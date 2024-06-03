@@ -2,7 +2,7 @@
 
 ### I'm Kaique Oliveira
 
-I'm a 19-year-old Computer Science student.
+I'm a developer and I'm currently studying Computer Science at UFOP. In my free time I like to read books in general, graphic novels, manga, and I'm passionate about astronomy and airplanes.
 
 #### 🚀 My GitHub Stats 🌌
 
